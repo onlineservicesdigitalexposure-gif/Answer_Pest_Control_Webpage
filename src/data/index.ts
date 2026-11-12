@@ -1,0 +1,8 @@
+export { FAQ_ITEMS } from './faq'
+export type { FaqItem } from './faq'
+export { PROCESS_STEPS } from './process'
+export type { ProcessStep } from './process'
+export { SERVICES } from './services'
+export type { ServiceItem } from './services'
+export { WHY_CHOOSE_US_ITEMS } from './whyChooseUs'
+export type { WhyChooseUsItem } from './whyChooseUs'

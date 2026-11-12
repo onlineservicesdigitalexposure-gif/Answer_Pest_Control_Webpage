@@ -1,0 +1,8 @@
+export { About } from './About'
+export { Contact } from './Contact'
+export { FAQ } from './FAQ'
+export { Hero } from './Hero'
+export { Location } from './Location'
+export { Process } from './Process'
+export { Services } from './Services'
+export { WhyChooseUs } from './WhyChooseUs'
